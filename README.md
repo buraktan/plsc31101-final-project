@@ -36,7 +36,7 @@ The code depends on the following software:
 http://www.ysk.gov.tr/doc/dosyalar/docs/Milletvekili/7Haziran2015/2015MV-SecimCevreleri.pdf
 2. AKP_Votes_2015.csv: Contains data from the website of the Turkish Election Council, collected via 'pdf_text' function. Includes information on votes AKP got in each district on June 2015 and November 2015. All PDFs available through: http://www.ysk.gov.tr/tr
 3. ged.191.csv: UCDP Georeferenced Event Dataset (GED) Global version 19.1, available here: 
-https://ucdp.uu.se/downloads/
+https://ucdp.uu.se/downloads/ (Please note that this is within a zipped .rar file on the GitHub repository)
 4. Death_byCity.csv: Cleaned data from the UCDP dataset.
 5. NUTS2016-NUTS2021.xlsx: European Union's NUTS regional classification dataset, available here: https://ec.europa.eu/eurostat/documents/345175/629341/NUTS2016-NUTS2021.xlsx
 6. NUTS_Regions_2016.csv: Data derived and cleaned from NUTS dataset above
