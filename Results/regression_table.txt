@@ -1,0 +1,35 @@
+
+Regression Results
+-------------------------------------------------------------
+                            Percentage Increase in AKP Votes 
+                             Model 1     Model 2    Model 3  
+-------------------------------------------------------------
+District's Share of Deaths   0.906*       0.411      0.411   
+                             (0.466)     (0.513)    (0.495)  
+Region's Share of Deaths                 2.393**     1.732   
+                                         (1.127)    (2.152)  
+West Anatolia                                        -0.010  
+                                                    (0.111)  
+West Black Sea                                       0.020   
+                                                    (0.087)  
+West Marmara                                         -0.032  
+                                                    (0.103)  
+East Black Sea                                       -0.028  
+                                                    (0.098)  
+East Marmara                                         0.034   
+                                                    (0.091)  
+Aegean                                               -0.008  
+                                                    (0.089)  
+SouthEast Anatolia                                   0.053   
+                                                    (0.101)  
+Istanbul                                             0.073   
+                                                    (0.119)  
+NorthEast Anatolia                                  0.282*** 
+                                                    (0.083)  
+Central Anatolia                                     0.022   
+                                                    (0.091)  
+CentralEast Anatolia                                         
+                                                             
+N                              85          85          85    
+-------------------------------------------------------------
+***p < .01; **p < .05; *p < .1                               
