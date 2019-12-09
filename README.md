@@ -21,6 +21,8 @@ The code depends on the following software:
 1. Narrative.Rmd: Provides a 3-5 page narrative of the project, main challenges, solutions, and results.
 2. Narrative.pdf: A knitted pdf of 00_Narrative.Rmd. 
 3. Slides.pptx: Lightning talk slides.
+4. README.md: Readme
+5. Comp_Final_Project.Rproj: Complete R Project
 
 #### Code/
 1. 01_Collect_Elections.R: Collects and cleans data from the website of the Turkish Election Council, writes the dataset "AKP_votes_2015.csv"
